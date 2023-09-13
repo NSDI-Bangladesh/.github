@@ -9,3 +9,4 @@ Our commitment to advancing the field of geospatial technology and data manageme
 # Learn more about NSDI Bangladesh:
 - [Geoportal (geoportal.nsdi.gov.bd)](http://geoportal.nsdi.gov.bd)
 - [Official NSDI Bangladesh Website (nsdi.gov.bd)](http://nsdi.gov.bd)
+- [Survey of Bangladesh (sob.gov.bd)](http://sob.gov.bd)
